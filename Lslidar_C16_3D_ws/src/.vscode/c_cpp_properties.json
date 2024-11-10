@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/beamkeerati/ros2_ws/install/lslidar_msgs/include/**",
+        "/home/beamkeerati/c16_ws/install/lslidar_c16_msgs/include/**",
+        "/home/beamkeerati/sick_scan_ws/install/sick_scan_xd/include/**",
+        "/home/beamkeerati/FRA501/Week5-uros/uros_ws/install/micro_ros_agent/include/**",
+        "/home/beamkeerati/FRA501/Week5-uros/uros_ws/install/micro_ros_msgs/include/**",
+        "/home/beamkeerati/FRA501/Week5-uros/uros_ws/install/imu_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/beamkeerati/ros2_ws/src/Lslidar_ROS2_driver/lslidar_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
